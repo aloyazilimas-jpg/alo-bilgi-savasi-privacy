@@ -1,58 +1,57 @@
-# alo-bilgi-savasi-privacy
-Gizlilik Politikası
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gizlilik Politikası</title>
+</head>
+<body>
 
-Alo Bilgi Savaşı
-Son güncelleme: 07.02.2026
+  <h1>Gizlilik Politikası</h1>
 
-Bu gizlilik politikası, Alo Bilgi Savaşı (“Uygulama”) kullanıcılarından toplanan bilgilerin nasıl toplandığını, kullanıldığını ve korunduğunu açıklamaktadır. Uygulamayı kullanarak bu gizlilik politikasını kabul etmiş sayılırsınız.
+  <p>
+    Bu gizlilik politikası, uygulamamızın kullanıcı bilgilerinin nasıl
+    toplandığını, kullanıldığını ve korunduğunu açıklar.
+  </p>
 
-1. Toplanan Bilgiler
+  <h2>Toplanan Veriler</h2>
+  <p>
+    Uygulamamız doğrudan kişisel bilgi toplamaz.
+    Ancak Google AdMob gibi üçüncü taraf hizmetler,
+    reklam gösterimi amacıyla anonim cihaz bilgileri toplayabilir.
+  </p>
 
-Uygulama kullanımı sırasında aşağıdaki bilgiler toplanabilir:
-	•	Giriş ve kayıt işlemleri için kullanıcı bilgileri (örneğin e-posta adresi)
-	•	Cihaz bilgileri (cihaz modeli, işletim sistemi sürümü)
-	•	Reklam kimliği ve reklam etkileşim verileri
-	•	Uygulama içi satın alma bilgileri (premium üyelik durumu)
+  <h2>Reklamlar</h2>
+  <p>
+    Uygulamamız Google AdMob reklamlarını kullanmaktadır.
+    Google, kullanıcılara ilgi alanlarına uygun reklamlar göstermek için
+    çerezler veya benzeri teknolojiler kullanabilir.
+  </p>
 
-2. Bilgilerin Kullanım Amacı
+  <h2>Üçüncü Taraf Hizmetler</h2>
+  <p>
+    Uygulama, Google Play Hizmetleri ve Google AdMob gibi üçüncü taraf
+    servisler kullanabilir. Bu servislerin kendi gizlilik politikaları geçerlidir.
+  </p>
 
-Toplanan bilgiler şu amaçlarla kullanılmaktadır:
-	•	Kullanıcı hesaplarının oluşturulması ve yönetilmesi
-	•	Premium özelliklerin aktif edilmesi
-	•	Reklamların gösterilmesi
-	•	Uygulamanın geliştirilmesi ve performansının artırılması
-	•	Güvenliğin sağlanması ve hataların tespit edilmesi
+  <h2>Güvenlik</h2>
+  <p>
+    Kullanıcı bilgilerinin güvenliğini sağlamak için makul önlemler alınmaktadır.
+  </p>
 
-3. Reklamlar
+  <h2>Değişiklikler</h2>
+  <p>
+    Bu gizlilik politikası zaman zaman güncellenebilir.
+    Güncellemeler bu sayfa üzerinden yayınlanır.
+  </p>
 
-Uygulama, Google AdMob gibi üçüncü taraf reklam hizmetlerini kullanmaktadır. Bu hizmetler, kullanıcılara kişiselleştirilmiş veya kişiselleştirilmemiş reklamlar gösterebilir. Google’ın gizlilik politikasına https://policies.google.com/privacy adresinden ulaşabilirsiniz.
+  <h2>İletişim</h2>
+  <p>
+    Herhangi bir sorunuz için bizimle iletişime geçebilirsiniz:
+  </p>
+  <p>
+    E-posta: destek@ornek.com
+  </p>
 
-4. Uygulama İçi Satın Alımlar (Premium)
-
-Uygulama içerisinde premium üyelik gibi uygulama içi satın alımlar sunulabilir. Tüm satın alma işlemleri Google Play üzerinden gerçekleştirilir. Ödeme bilgileri uygulama tarafından saklanmaz veya erişilmez.
-
-5. Üçüncü Taraf Hizmetler
-
-Alo Bilgi Savaşı aşağıdaki üçüncü taraf hizmetleri kullanabilir:
-	•	Google Firebase (kimlik doğrulama, veritabanı ve analiz hizmetleri)
-	•	Google AdMob (reklam hizmetleri)
-	•	Google Play Hizmetleri
-
-Bu hizmetler kendi gizlilik politikalarına tabidir.
-
-6. Veri Güvenliği
-
-Kullanıcı bilgilerinin güvenliği bizim için önemlidir. Veriler, yetkisiz erişime karşı makul güvenlik önlemleriyle korunmaktadır.
-
-7. Çocukların Gizliliği
-
-Alo Bilgi Savaşı, 13 yaşın altındaki çocuklara yönelik değildir. Bilerek çocuklardan kişisel veri toplanmaz.
-
-8. Gizlilik Politikası Değişiklikleri
-
-Bu gizlilik politikası zaman zaman güncellenebilir. Yapılan değişiklikler bu sayfa üzerinden yayınlanır.
-
-9. İletişim
-
-Gizlilik politikası ile ilgili her türlü soru ve talep için bizimle iletişime geçebilirsiniz:
-E-posta: destek.bilgisavasi@gmail.com
+</body>
+</html>
